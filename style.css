@@ -8,4 +8,9 @@ p {
 }
 .branches p{
     background-color: palegreen;
+    color: rebeccapurple;
+}
+
+body{
+    background-color: black;
 }
