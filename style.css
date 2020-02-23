@@ -1,3 +1,8 @@
+
+body{
+    background-color: black;
+}
+
 p {
     background-color: red;
     color: red
@@ -9,8 +14,4 @@ p {
 .branches p{
     background-color: palegreen;
     color: rebeccapurple;
-}
-
-body{
-    background-color: black;
 }
