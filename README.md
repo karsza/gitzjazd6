@@ -1,15 +1,13 @@
-# git_zjazd6
+# git_6zjazd_gr2
 
-### koszystanie z projektu:
-Aby skorzystać z projektu należy **sklonować** repozytorium lub wykorzystać __Github Pages__
+### Korzystanie z projektu:
+Aby skorzystać z projektu należy **sklonować** repozytorium lub wykorzystać __Github Pages__.
 
-Wiecej o projekcie
-[Kliknij tutaj aby zobaczyc wiecej www.wsb.pl/wroclaw
+Więcej o projekcie:
+[Kliknij tutaj aby zobaczyć więcej](https://www.wsb.pl/wroclaw)
 
-#### Ulubione polecenia gita:
-1.git clone
-2.git commit
-3.git push
-4.git init
-5.git pull
-6.git show remote
+
+###### Ulubione polecenia gita:
+1. git commit 
+2. git checkout 
+3. git status
