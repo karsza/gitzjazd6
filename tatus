@@ -1,0 +1,25 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 4e9a3c4..47072af 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -15,6 +15,7 @@[m
+         <li>git div</li>[m
+         <li>git remote add nowyBranch</li>[m
+         <li>git remote add nowyBranch</li>[m
+[32m+[m[32m        <li>git fidd</li>[m
+ [m
+     </ul>[m
+ </body>[m
+[1mdiff --git a/style.css b/style.css[m
+[1mindex bbc7d91..73c6e0f 100644[m
+[1m--- a/style.css[m
+[1m+++ b/style.css[m
+[36m@@ -1,4 +1,7 @@[m
+ p{[m
+     background-color: red;[m
+     color: blue;[m
+[32m+[m[32m}[m
+[32m+[m[32mli{[m
+[32m+[m[32m    color: rebeccapurple;[m
+ }[m
+\ No newline at end of file[m
