@@ -12,3 +12,4 @@ Wiecej o projekcie
 3.git push
 4.git init
 5.git pull
+6.git show remote
